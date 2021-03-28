@@ -26,7 +26,7 @@
 
 ## Getting started
 
-- We do not know the best approach to this yet. Feel free to join us in the [discussions](https://github.com/kyooreas/virtualahan-com/discussions) section to further discuss what to do next.
+- Feel free to join us in the [discussions](https://github.com/kyooreas/virtualahan-com/discussions) section to further discuss what to do next.
 
 ## :books: Documentation
 
