@@ -19,6 +19,9 @@
   - Transfer hosting to Azure App Service.
 
 - Phase 3
+  - Improve and maintain performance and accessibility.
+
+- Phase 4
   - Explore other development approach other than Wordpress or CMS and check if it can make it even better.
 
 ## Getting started
